@@ -2,7 +2,7 @@
   "name": "back-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AT1452.github.io/Vouch",
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.0.0-rc.0",
     "bootstrap": "^4.3.1",
