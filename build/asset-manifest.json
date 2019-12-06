@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Vouch/static/css/main.9b8397a8.chunk.css",
+    "main.js": "/Vouch/static/js/main.aa854e48.chunk.js",
+    "main.js.map": "/Vouch/static/js/main.aa854e48.chunk.js.map",
+    "runtime~main.js": "/Vouch/static/js/runtime~main.065155dc.js",
+    "runtime~main.js.map": "/Vouch/static/js/runtime~main.065155dc.js.map",
+    "static/css/2.83ace7dd.chunk.css": "/Vouch/static/css/2.83ace7dd.chunk.css",
+    "static/js/2.d1ea94ec.chunk.js": "/Vouch/static/js/2.d1ea94ec.chunk.js",
+    "static/js/2.d1ea94ec.chunk.js.map": "/Vouch/static/js/2.d1ea94ec.chunk.js.map",
+    "index.html": "/Vouch/index.html",
+    "precache-manifest.251f0b0085fc4246f63d9e0a650557cc.js": "/Vouch/precache-manifest.251f0b0085fc4246f63d9e0a650557cc.js",
+    "service-worker.js": "/Vouch/service-worker.js",
+    "static/css/2.83ace7dd.chunk.css.map": "/Vouch/static/css/2.83ace7dd.chunk.css.map",
+    "static/css/main.9b8397a8.chunk.css.map": "/Vouch/static/css/main.9b8397a8.chunk.css.map",
+    "static/media/logo.svg": "/Vouch/static/media/logo.9f7e506d.svg"
+  }
+}
