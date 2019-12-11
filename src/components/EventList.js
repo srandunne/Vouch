@@ -20,7 +20,7 @@ const db = firebase.firestore();
 //     console.log(allDocs)
 // })
 // .catch(function(error) {
-//     console.log("Error getting documents: ", error);
+//     
 // });
 
 export default class EventList extends Component {
